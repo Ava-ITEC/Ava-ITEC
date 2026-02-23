@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ava 👋
 
-<!--
-**Ava-ITEC/Ava-ITEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology student in Canada.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming:
+- Java
+- C#
+- SQL
+- HTML, CSS
+
+IT Skills:
+- Windows installation
+- Hardware troubleshooting
+- Software installation
+- Basic networking
+
+Tools:
+- Visual Studio
+- VS Code
+- Git
+- GitHub
+
+## Projects
+- Library Management System (C#)
+- Student System (Java)
+- Console Applications (Java)
+
+## Goal
+Seeking IT Support or Junior Developer internship in Canada.
